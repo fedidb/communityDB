@@ -48,6 +48,7 @@ git checkout -b add-software-entry
 
 ### 4. Edit the `software.json` File
 Locate the `software.json` file in the repository. Add your new software entry or update an existing one using the JSON format provided above.
+Keep the slugs in alphabetical order when choosing the position of your software in the file.
 
 #### **Field Descriptions**
 - **name**: The name of the software (e.g., "Pixelfed").
