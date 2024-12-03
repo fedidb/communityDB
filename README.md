@@ -51,7 +51,7 @@ Locate the `software.json` file in the repository. Add your new software entry o
 
 #### **Field Descriptions**
 - **name**: The name of the software (e.g., "Pixelfed").
-- **slug**: A lowercase, URL-friendly identifier for the software (e.g., "pixelfed"). This should never change.
+- **slug**: A lowercase, URL-friendly identifier for the software (e.g., "pixelfed"). This should never change. Ensure that this is unique across the file. You might also want to align with the slugs used in [fediverse.observer](https://fediverse.observer/).
 - **description**: A short description of the software.
 - **license**: The license of the software (e.g., "AGPL").
 - **source_code**: URL to the source code repository.
