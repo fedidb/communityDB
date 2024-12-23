@@ -950,5 +950,22 @@
         "matrix_url": null,
         "logo_source_url": "https://codeberg.org/repo-avatars/576d79b207b4d46349e252a8e2abf6d1a7078ba5999726e7d4e7e0b483c5068e",
         "logo_source_version": null
+    },
+    {
+        "name": "tootik",
+        "slug": "tootik",
+        "description": "A federated nanoblogging service with a Gemini frontend.",
+        "license": "Apache-2.0",
+        "source_code": "https://github.com/dimkr/tootik",
+        "website": "https://github.com/dimkr/tootik",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/dimkr/tootik/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": "https://avatars.githubusercontent.com/u/1471149",
+        "logo_source_version": null
     }
 ]
