@@ -1039,7 +1039,7 @@
     {
         "name": "appy",
         "slug": "appy",
-        "description": "a headless ActivityPub server writenn in Python over fastAPI",
+        "description": "a headless ActivityPub server written in Python over fastAPI",
         "license": "GPL",
         "source_code": "https://codeberg.org/spla/appy",
         "website": "https://appy.cat",
