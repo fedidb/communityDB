@@ -1052,5 +1052,22 @@
         "matrix_url": "",
         "logo_source_url": "https://codeberg.org/spla/appy/logo/appy.png",
         "logo_source_version": 1
+    },
+    {
+        "name": "irwin",
+        "slug": "irwin",
+        "description": "an activitypub and indieauth server",
+        "license": "MIT",
+        "source_code": "https://github.com/herestomwiththeweather/irwin",
+        "website": "https://otisburg.social",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": null
     }
 ]
