@@ -434,10 +434,10 @@
     {
         "name": "Takesama",
         "description": "A dual Mastodon/Misskey client available on Android (and iOS) that addresses issues from other clients and supports multiple accounts across instances.",
-        "compatibility": ["Misskey"],
+        "compatibility": ["Misskey", "Mastodon"],
         "categories": ["client"],
         "os": ["android", "ios"],
-        "url": "https://apps.apple.com/us/app/takesama-mastodon-misskey/id1622199470",
+        "url": "https://takesama.com/",
         "createdAt": null
     },
     {
