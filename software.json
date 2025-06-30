@@ -1514,35 +1514,6 @@
         "logo_source_version": null
     },
     {
-        "name": "Vidzy",
-        "slug": "vidzy",
-        "categories": [
-            "video"
-        ],
-        "key_features": [
-            "Short-form video sharing",
-            "Federated via ActivityPub",
-            "Vertical video format",
-            "User-generated video filters",
-            "Real-time interactions",
-            "Privacy controls",
-            "Explore and discovery feed"
-        ],
-        "description": "A free, open source, federated alternative to TikTok",
-        "license": "AGPL",
-        "source_code": "https://github.com/vidzy-social/vidzy",
-        "website": "https://vidzy.codeberg.page/",
-        "apps_url": null,
-        "join_url": "https://vidzy.codeberg.page/#servers",
-        "api_docs_url": null,
-        "support_url": "https://github.com/vidzy-social/vidzy/issues",
-        "forum_url": "https://github.com/vidzy-social/vidzy/discussions",
-        "donate_url": null,
-        "matrix_url": "https://matrix.to/#/#vidzysocial:fedora.im",
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
         "name": "Emissary",
         "slug": "emissary",
         "categories": [
