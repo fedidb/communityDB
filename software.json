@@ -1747,5 +1747,35 @@
         "matrix_url": null,
         "logo_source_url": null,
         "logo_source_version": null
+    },
+    {
+        "name": "frequency",
+        "slug": "frequency",
+        "categories": [
+            "image-sharing",
+            "video"
+        ],
+        "key_features": [
+            "Photo and video sharing",
+            "Circles",
+            "Custom feeds",
+            "Zen mode",
+            "Privacy-first design",
+            "Federation with ActivityPub",
+            "Singular instance"
+        ],
+        "description": "A mindful, federated social network to share your life with family and friends",
+        "license": null,
+        "source_code": "https://github.com/jesseplusplus/decodon",
+        "website": "https://frequency.app",
+        "apps_url": "https://apps.apple.com/us/app/frequency-social/id1522993423",
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://support.frequency.app",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": null
     }
 ]
