@@ -585,6 +585,42 @@
         "createdAt": "March 2023"
     },
     {
+        "name": "Piecelet",
+        "description": "Track and share your books, movies, episodes, music, games, and shows with Piecelet for NeoDB.",
+        "compatibility": ["NeoDB"],
+        "categories": ["client"],
+        "os": ["ios"],
+        "url": "https://piecelet.app",
+        "createdAt": null
+    },
+    {
+        "name": "Chihu",
+        "description": "Avalie e compartilhe suas experiências com filmes, jogos, livros, podcasts e muito mais. O Chihu é um cliente para o NeoDB, é o seu companheiro perfeito para explorar o mundo do entretenimento. Com uma interface intuitiva, você pode deixar suas opiniões, encontrar recomendações personalizadas.",
+        "compatibility": ["NeoDB"],
+        "categories": ["client"],
+        "os": ["ios"],
+        "url": "https://chihu.app",
+        "createdAt": null
+    },
+    {
+        "name": "NeoDB You",
+        "description": "A native Android app for NeoDB, crafted with Jetpack Compose and Material 3.",
+        "compatibility": ["NeoDB"],
+        "categories": ["client"],
+        "os": ["android"],
+        "url": "https://github.com/heddxh/NeoDB-You/",
+        "createdAt": null
+    },
+    {
+        "name": "NeoComment",
+        "description": "NeoComment aims to provide an easy to use Android client for NeoDB.",
+        "compatibility": ["NeoDB"],
+        "categories": ["client"],
+        "os": ["android"],
+        "url": "https://fedicat.com",
+        "createdAt": null
+    },
+    {
         "name": "Tuba",
         "description": "Explore the federated social web with Tuba. Stay connected to your favorite communities, family and friends with support for popular Fediverse platforms.",
         "compatibility": ["Mastodon", "GoToSocial", "Akkoma", "Pixelfed"],
