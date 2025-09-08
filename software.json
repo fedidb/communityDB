@@ -188,28 +188,6 @@
         "logo_source_version": null
     },
     {
-        "name": "Socialhome",
-        "slug": "socialhome",
-        "categories": [
-            "blogging",
-            "microblogging"
-        ],
-        "key_features": [],
-        "description": "A federated social home",
-        "license": "AGPL",
-        "source_code": "https://github.com/jaywink/socialhome",
-        "website": "https://socialhome.network",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
         "name": "Writefreely",
         "slug": "writefreely",
         "categories": [
@@ -957,48 +935,6 @@
         "logo_source_version": null
     },
     {
-        "name": "Glitchcafe",
-        "slug": "glitchcafe",
-        "categories": [
-            "other"
-        ],
-        "key_features": [],
-        "description": "Mastodon fork for Plural Caf\u00e9.",
-        "license": "AGPL",
-        "source_code": "https://github.com/pluralcafe/glitchcafe",
-        "website": "https://github.com/pluralcafe/glitchcafe",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
-        "name": "Kbin",
-        "slug": "kbin",
-        "categories": [
-            "forum"
-        ],
-        "key_features": [],
-        "description": "Kbin is an open source reddit-like content aggregator and microblogging platform for the fediverse.",
-        "license": "AGPL",
-        "source_code": "https://codeberg.org/Kbin/kbin-core",
-        "website": "https://kbin.pub/en",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
         "name": "Meisskey",
         "slug": "meisskey",
         "categories": [
@@ -1395,35 +1331,6 @@
         "logo_source_version": null
     },
     {
-        "name": "Castopod",
-        "slug": "castopod",
-        "categories": [
-            "audio"
-        ],
-        "key_features": [
-            "Podcast hosting platform",
-            "ActivityPub federation",
-            "Detailed analytics",
-            "Podcast monetization tools",
-            "Customizable podcast pages",
-            "Automated RSS feeds",
-            "Social interactions (comments/replies)"
-        ],
-        "description": "Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience.",
-        "license": "AGPL",
-        "source_code": "https://code.castopod.org/adaures/castopod",
-        "website": "https://castopod.org",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
         "name": "Manyfold",
         "slug": "manyfold",
         "categories": [
@@ -1449,69 +1356,6 @@
         "matrix_url": "https://matrix.to/#/#manyfold:matrix.org",
         "logo_source_url": "https://manyfold.app/images/roundel.svg",
         "logo_source_version": 1
-    },
-    {
-        "name": "flohmarkt",
-        "slug": "flohmarkt",
-        "categories": [
-            "other"
-        ],
-        "key_features": [],
-        "description": "Sell and buy 2nd hand items from other users.",
-        "license": "AGPL",
-        "source_code": "https://codeberg.org/flohmarkt/flohmarkt",
-        "website": "https://codeberg.org/flohmarkt/flohmarkt",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": "https://codeberg.org/flohmarkt/flohmarkt/issues",
-        "forum_url": null,
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
-        "name": "FediAlgo",
-        "slug": "fedialgo",
-        "categories": [
-            "other"
-        ],
-        "key_features": [],
-        "description": "A user customizable algorithm for your Mastodon timeline.",
-        "license": "ISC",
-        "source_code": "https://github.com/michelcrypt4d4mus/fedialgo",
-        "website": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed/blob/master/README.md",
-        "apps_url": "https://github.com/michelcrypt4d4mus/fedialgo_demo_app_foryoufeed",
-        "join_url": null,
-        "api_docs_url": "https://github.com/michelcrypt4d4mus/fedialgo/blob/master/README.md",
-        "support_url": null,
-        "forum_url": "https://github.com/michelcrypt4d4mus/fedialgo/discussions",
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
-        "name": "tootik",
-        "slug": "tootik",
-        "categories": [
-            "microblogging"
-        ],
-        "key_features": [],
-        "description": "A federated nanoblogging service with a Gemini frontend.",
-        "license": "Apache-2.0",
-        "source_code": "https://github.com/dimkr/tootik",
-        "website": "https://github.com/dimkr/tootik",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": "https://github.com/dimkr/tootik/issues",
-        "forum_url": null,
-        "donate_url": null,
-        "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
     },
     {
         "name": "Emissary",
@@ -1560,49 +1404,6 @@
         "forum_url": "https://discord.gg/uprvcH8gqD",
         "donate_url": "https://ko-fi.com/neodb",
         "matrix_url": "https://matrix.to/#/#neodb:matrix.org",
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
-        "name": "appy",
-        "slug": "appy",
-        "categories": [
-            "other"
-        ],
-        "key_features": [],
-        "description": "a headless ActivityPub server written in Python over fastAPI",
-        "license": "GPL",
-        "source_code": "https://codeberg.org/spla/appy",
-        "website": "https://appy.cat",
-        "apps_url": "https://codeberg.org/spla/appy/apps",
-        "join_url": "",
-        "api_docs_url": "",
-        "support_url": "",
-        "forum_url": "",
-        "donate_url": "https://appy.cat/donate",
-        "matrix_url": "",
-        "logo_source_url": null,
-        "logo_source_version": null
-    },
-    {
-        "name": "Elgg",
-        "slug": "elgg",
-        "categories": [
-            "blogging",
-            "microblogging"
-        ],
-        "key_features": [],
-        "description": "Powerful open source social networking engine",
-        "license": "GPLv2",
-        "source_code": "http://github.com/elgg/elgg",
-        "website": "https://elgg.org",
-        "apps_url": "https://elgg.org/about/download",
-        "join_url": "",
-        "api_docs_url": "https://learn.elgg.org/en/stable",
-        "support_url": "https://learn.elgg.org/en/stable/admin/getting-help.html",
-        "forum_url": "https://elgg.org/activity",
-        "donate_url": "https://elgg.org/about/supporters",
-        "matrix_url": "",
         "logo_source_url": null,
         "logo_source_version": null
     },
