@@ -1286,9 +1286,9 @@
             "Privacy controls",
             "Explore and discovery feed"
         ],
-        "description": "Loops is a short video sharing platform.",
+        "description": "The federated short video sharing platform. Share, discover, and create short videos across the social web.",
         "license": "AGPL",
-        "source_code": "https://github.com/px-loops/loopd",
+        "source_code": "https://github.com/joinloops/loops-server",
         "website": "https://joinloops.org",
         "apps_url": null,
         "join_url": null,
