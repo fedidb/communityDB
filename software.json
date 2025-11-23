@@ -1009,9 +1009,7 @@
         "name": "stegodon",
         "slug": "stegodon",
         "categories": [
-            "microblogging",
-            "federated",
-            "social-network"
+            "microblogging"
         ],
         "key_features": [
             "SSH-first terminal interface",
@@ -1032,7 +1030,7 @@
         "donate_url": "https://github.com/sponsors/deemkeen",
         "matrix_url": null,
         "logo_source_url": "https://repository-images.githubusercontent.com/572501635/be826e39-4440-4727-9d72-b84e289444f3",
-        "logo_source_version": null
+        "logo_source_version": 1
     },
     {
         "name": "Takahe",
