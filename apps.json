@@ -592,5 +592,14 @@
         "os": ["desktop"],
         "url": "https://tuba.geopjr.dev/",
         "createdAt": "April 2018"
+    },
+    {
+        "name": "NeoComment",
+        "description": "A user-friendly client for NeoDB to track, rate, review, and comment for books, movies, games, music and more.",
+        "compatibility": ["NeoDB"],
+        "categories": ["client"],
+        "os": ["android"],
+        "url": "https://github.com/mohammadrafigh/NeoComment",
+        "createdAt": "November 2025"
     }
 ]
