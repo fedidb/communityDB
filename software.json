@@ -1006,6 +1006,33 @@
         "logo_source_version": null
     },
     {
+        "name": "stegodon",
+        "slug": "stegodon",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "SSH-first terminal interface",
+            "ActivityPub federation",
+            "RSS feeds",
+            "Web interface",
+            "Multi-user with admin panel"
+        ],
+        "description": "SSH-first federated blogging platform. Users connect via SSH to create notes in a terminal interface that federate to the Fediverse via ActivityPub.",
+        "license": "MIT",
+        "source_code": "https://github.com/deemkeen/stegodon",
+        "website": "https://stegodon.social",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": "https://github.com/sponsors/deemkeen",
+        "matrix_url": null,
+        "logo_source_url": "https://repository-images.githubusercontent.com/572501635/be826e39-4440-4727-9d72-b84e289444f3",
+        "logo_source_version": 1
+    },
+    {
         "name": "Takahe",
         "slug": "takahe",
         "categories": [
