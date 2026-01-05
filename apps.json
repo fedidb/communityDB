@@ -601,5 +601,21 @@
         "os": ["android"],
         "url": "https://github.com/mohammadrafigh/NeoComment",
         "createdAt": "November 2025"
+    },
+    {
+    "name": "Tokodon",
+    "slug": "tokodon",
+    "categories": [
+        "client"
+    ],
+    "compatibility": ["Mastodon"],
+    "os": ["desktop", "android"],
+    "description": "Tokodon is a Mastodon client. It allows you to interact with the Fediverse community.",
+    "license": "GPL-3.0",
+    "source_code": "https://invent.kde.org/network/tokodon",
+    "website": "https://apps.kde.org/tokodon/",
+    "forum_url": "https://discuss.kde.org",
+    "donate_url": "https://kde.org/donate/",
+    "logo_source_url": "https://apps.kde.org/app-icons/org.kde.tokodon.svg"
     }
 ]
