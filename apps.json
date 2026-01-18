@@ -594,6 +594,15 @@
         "createdAt": "April 2018"
     },
     {
+        "name": "Piecelet for NeoDB",
+        "description": "A NeoDB native client for iOS to track and share books, movies, episodes, music, games, and shows.",
+        "compatibility": ["NeoDB"],
+        "categories": ["client"],
+        "os": ["ios", "desktop"],
+        "url": "https://apps.apple.com/app/piecelet-for-neodb/id6739444863",
+        "createdAt": "January 2025"
+    },
+    {
         "name": "NeoComment",
         "description": "A user-friendly client for NeoDB to track, rate, review, and comment for books, movies, games, music and more.",
         "compatibility": ["NeoDB"],
