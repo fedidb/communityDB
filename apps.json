@@ -578,7 +578,7 @@
     {
         "name": "Fedicat",
         "description": "A fediverse client for iOS that attempts to support any platform with some degree of Mastodon API compatibility.",
-        "compatibility": ["Mastodon", "Pixelfed", "NeoDB", "Pleroma", "Akkoma", "Mitra", "Snac", "Takahe", "GotoSocial", "Friendica", "Iceshrimp", "Sharkey"],
+        "compatibility": ["Mastodon", "Pixelfed", "NeoDB", "Pleroma", "Akkoma", "Mitra", "Snac", "Takahe", "GotoSocial", "Friendica", "Iceshrimp", "Sharkey", "Hollo", "Bonfire"],
         "categories": ["client"],
         "os": ["ios"],
         "url": "https://fedicat.com",
