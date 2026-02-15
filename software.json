@@ -1576,5 +1576,33 @@
         "matrix_url": null,
         "logo_source_url": null,
         "logo_source_version": null
+    },
+    {
+        "name": "BadgeFed",
+        "slug": "badgefed",
+        "categories": [
+            "badges",
+            "microcredentials"
+        ],
+        "key_features": [
+            "Issue and manage digital badges and grants",
+            "ActivityPub protocol support for federation",
+            "OpenBadges spec support",
+            "OAuth login (Mastodon, LinkedIn)",
+            "Self-hostable"
+        ],
+        "description": "Verifiable digital credentials for the Fediverse. Breaking free from badge silos.",
+        "license": "LGPL",
+        "source_code": "https://github.com/tryvocalcat/badgefed",
+        "website": "https://badgefed.org",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/tryvocalcat/badgefed/issues",
+        "forum_url": "https://github.com/tryvocalcat/badgefed/discussions",
+        "donate_url": "https://ko-fi.com/mahopacheco",
+        "matrix_url": "https://matrix.to/#/#badgefed:matrix.org",
+        "logo_source_url": "",
+        "logo_source_version": null
     }
 ]
