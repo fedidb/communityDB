@@ -1604,5 +1604,33 @@
         "matrix_url": "https://matrix.to/#/#badgefed:matrix.org",
         "logo_source_url": "",
         "logo_source_version": null
+    },
+    {
+        "name": "appy",
+        "slug": "appy",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+	    "Local and federated timelines",
+            "Media attachments",
+            "Content warnings",
+            "Custom filtering",
+	    "Fast",
+	    "Lightweight"
+        ],
+        "description": "A lightweight server implementing the ActivityPub protocol in Python over fastAPI.",
+        "license": "GNU GENERAL PUBLIC LICENSE, Version 3",
+        "source_code": "https://codeberg.org/spla/appy",
+        "website": "https://appy.cat",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": "https://appy.cat/docs",
+        "support_url": "https://codeberg.org/spla/appy",
+        "forum_url": null,
+        "donate_url": null
+        "matrix_url": null
+        "logo_source_url": "https://codeberg.org/spla/appy/raw/branch/main/static/appy.png",
+        "logo_source_version": null
     }
 ]
