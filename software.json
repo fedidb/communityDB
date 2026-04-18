@@ -1632,5 +1632,30 @@
         "matrix_url": null
         "logo_source_url": "https://codeberg.org/spla/appy/raw/branch/main/static/appy.png",
         "logo_source_version": null
-    }
+    },
+	{
+	    "name": "Socialhome",
+	    "slug": "socialhome",
+	    "categories": [
+			"microblogging",
+			"blogging",
+			"image-sharing",
+			"audio",
+			"video"
+	    ],
+	    "key_features": [
+            "Federation with various protocols",
+			"Photo and video sharing",
+			"Rich text formatting",
+			"Markdown editor",
+			"Pinterest style grid UI",
+        ],
+	    "description": "Federated personal profile with rich content.",
+	    "license": "AGPL",
+	    "source_code": "https://codeberg.org/socialhome",
+	    "website": "https://socialhome.network",
+	    "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
+	    "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
+	    "logo_source_version": 1
+	}
 ]
