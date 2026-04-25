@@ -1628,8 +1628,8 @@
         "api_docs_url": "https://appy.cat/docs",
         "support_url": "https://codeberg.org/spla/appy",
         "forum_url": null,
-        "donate_url": null
-        "matrix_url": null
+        "donate_url": null,
+        "matrix_url": null,
         "logo_source_url": "https://codeberg.org/spla/appy/raw/branch/main/static/appy.png",
         "logo_source_version": null
     },
@@ -1648,7 +1648,7 @@
 			"Photo and video sharing",
 			"Rich text formatting",
 			"Markdown editor",
-			"Pinterest style grid UI",
+			"Pinterest style grid UI"
         ],
 	    "description": "Federated personal profile with rich content.",
 	    "license": "AGPL",
