@@ -1654,6 +1654,12 @@
 	    "license": "AGPL",
 	    "source_code": "https://codeberg.org/socialhome",
 	    "website": "https://socialhome.network",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
 	    "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
 	    "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
 	    "logo_source_version": 1
