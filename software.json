@@ -1663,5 +1663,33 @@
 	    "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
 	    "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
 	    "logo_source_version": 1
-	}
+	},
+    {
+        "name": "murlog",
+        "slug": "murlog",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Runs on shared hosting via CGI",
+            "Single-user instance design",
+            "Go + SQLite single binary",
+            "Minimal dependencies",
+            "Full-featured SPA frontend",
+            "S3/R2 compatible media storage"
+        ],
+        "description": "A single-user ActivityPub microblog server.",
+        "license": "AGPL",
+        "source_code": "https://github.com/murlog-org/murlog",
+        "website": "https://murlog.org",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": "https://murlog.org/docs/index.html",
+        "support_url": "https://github.com/murlog-org/murlog/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": "https://raw.githubusercontent.com/murlog-org/murlog/main/web/public/icon-512.png",
+        "logo_source_version": 1
+    }
 ]
