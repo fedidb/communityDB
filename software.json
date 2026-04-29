@@ -1663,5 +1663,29 @@
 	    "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
 	    "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
 	    "logo_source_version": 1
+	},
+	{
+	    "name": "Castopod",
+	    "slug": "castopod",
+	    "categories": [
+			"audio"
+	    ],
+	    "key_features": [
+            "Federation with various protocols",
+			"Podcast sharing"
+        ],
+	    "description": "The free and open-source solution to your podcasting 2.0 journey.",
+	    "license": "AGPL",
+	    "source_code": "https://code.castopod.org/adaures/castopod",
+	    "website": "https://castopod.org",
+        "apps_url": null,
+        "join_url": "https://index.castopod.org",
+        "api_docs_url": "https://docs.castopod.org/next/en/api/",
+        "support_url": "https://code.castopod.org/adaures/castopod/issues",
+        "forum_url": "https://castopod.org/discord",
+        "donate_url": null,
+	    "matrix_url": null,
+	    "logo_source_url": "https://code.castopod.org/adaures/castopod/-/raw/develop/docs/src/assets/castopod-logo-inline.svg",
+	    "logo_source_version": 1
 	}
 ]
