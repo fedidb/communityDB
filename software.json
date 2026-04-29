@@ -1633,33 +1633,33 @@
         "logo_source_url": "https://codeberg.org/spla/appy/raw/branch/main/static/appy.png",
         "logo_source_version": null
     },
-	{
+	  {
 	    "name": "Socialhome",
 	    "slug": "socialhome",
 	    "categories": [
-			"microblogging",
-			"blogging",
-			"image-sharing",
-			"audio",
-			"video"
+          "microblogging",
+          "blogging",
+          "image-sharing",
+          "audio",
+          "video"
 	    ],
 	    "key_features": [
-            "Federation with various protocols",
-			"Photo and video sharing",
-			"Rich text formatting",
-			"Markdown editor",
-			"Pinterest style grid UI"
-        ],
+           "Federation with various protocols",
+          "Photo and video sharing",
+          "Rich text formatting",
+          "Markdown editor",
+          "Pinterest style grid UI"
+       ],
 	    "description": "Federated personal profile with rich content.",
 	    "license": "AGPL",
 	    "source_code": "https://codeberg.org/socialhome",
 	    "website": "https://socialhome.network",
-        "apps_url": null,
-        "join_url": null,
-        "api_docs_url": null,
-        "support_url": null,
-        "forum_url": null,
-        "donate_url": null,
+      "apps_url": null,
+      "join_url": null,
+      "api_docs_url": null,
+      "support_url": null,
+      "forum_url": null,
+      "donate_url": null,
 	    "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
 	    "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
 	    "logo_source_version": 1
@@ -1668,24 +1668,52 @@
 	    "name": "Castopod",
 	    "slug": "castopod",
 	    "categories": [
-			"audio"
+			    "audio"
 	    ],
 	    "key_features": [
-            "Federation with various protocols",
-			"Podcast sharing"
-        ],
+          "Federation with various protocols",
+          "Podcast sharing"
+      ],
 	    "description": "The free and open-source solution to your podcasting 2.0 journey.",
 	    "license": "AGPL",
 	    "source_code": "https://code.castopod.org/adaures/castopod",
 	    "website": "https://castopod.org",
-        "apps_url": null,
-        "join_url": "https://index.castopod.org",
-        "api_docs_url": "https://docs.castopod.org/next/en/api/",
-        "support_url": "https://code.castopod.org/adaures/castopod/issues",
-        "forum_url": "https://castopod.org/discord",
-        "donate_url": null,
+      "apps_url": null,
+      "join_url": "https://index.castopod.org",
+      "api_docs_url": "https://docs.castopod.org/next/en/api/",
+      "support_url": "https://code.castopod.org/adaures/castopod/issues",
+      "forum_url": "https://castopod.org/discord",
+      "donate_url": null,
 	    "matrix_url": null,
 	    "logo_source_url": "https://code.castopod.org/adaures/castopod/-/raw/develop/docs/src/assets/castopod-logo-inline.svg",
 	    "logo_source_version": 1
-	}
+	  },
+    {
+        "name": "murlog",
+        "slug": "murlog",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Runs on shared hosting via CGI",
+            "Single-user instance design",
+            "Go + SQLite single binary",
+            "Minimal dependencies",
+            "Full-featured SPA frontend",
+            "S3/R2 compatible media storage"
+        ],
+        "description": "A single-user ActivityPub microblog server.",
+        "license": "AGPL",
+        "source_code": "https://github.com/murlog-org/murlog",
+        "website": "https://murlog.org",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": "https://murlog.org/docs/index.html",
+        "support_url": "https://github.com/murlog-org/murlog/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": "https://raw.githubusercontent.com/murlog-org/murlog/main/web/public/icon-512.png",
+        "logo_source_version": 1
+    }
 ]
