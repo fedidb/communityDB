@@ -1,641 +1,665 @@
 [
-    {
-        "name": "Mastodon",
-        "description": "The official mobile client for Mastodon, offering a polished, easy-to-use interface on Android and iOS.",
-        "compatibility": ["Mastodon"],
-        "categories": ["official", "client"],
-        "os": ["android", "ios"],
-        "url": "https://joinmastodon.org/apps",
-        "createdAt": "April 2022"
-    },
-    {
-        "name": "Tusky",
-        "description": "A lightweight, open-source Mastodon client for Android supporting all Mastodon features (photos, videos, lists, custom emojis).",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://tusky.app",
-        "createdAt": null
-    },
-    {
-        "name": "Subway Tooter",
-        "description": "A powerful Mastodon client for Android with multi-account, multi-column support.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://github.com/tateisu/SubwayTooter",
-        "createdAt": null
-    },
-    {
-        "name": "Fedilab",
-        "description": "A multifunctional Android client supporting Mastodon, Pleroma, Friendica, and Pixelfed, with features like multi-account and moderation tools.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://fedilab.app",
-        "createdAt": null
-    },
-    {
-        "name": "Moshidon",
-        "description": "An open-source Android Mastodon client (forked from Megalodon) adding missing features like federated timeline support.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://lucasggamerm.github.io/moshidon/",
-        "createdAt": null
-    },
-    {
-        "name": "Rodent",
-        "description": "An Android client for Mastodon that implements most common features and introduces innovative twists for an enhanced experience.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://mastodonrodent.app",
-        "createdAt": null
-    },
-    {
-        "name": "Pachli",
-        "description": "A full-featured Android Mastodon client developed cooperatively, including filters, translations, and many power-user features.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://pachli.app",
-        "createdAt": null
-    },
-    {
-        "name": "Fread",
-        "description": "A next-generation microblogging client for Android that supports Mastodon, Bluesky, and RSS in one place.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://github.com/0xZhangKe/Fread",
-        "createdAt": null
-    },
-    {
-        "name": "Toot!",
-        "description": "A well-designed, feature-rich Mastodon client for iOS known for its playful interface and powerful functionality.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/app/toot/id1229021451",
-        "createdAt": null
-    },
-    {
-        "name": "iMast",
-        "description": "An open-source Mastodon client for iOS originating from Japan, offering advanced features and custom emoji support.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://github.com/cinderella-project/iMast",
-        "createdAt": null
-    },
-    {
-        "name": "Ice Cubes",
-        "description": "A free, open-source Mastodon client for iOS/macOS that embraces the latest Apple UI designs and offers multiple account support.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884",
-        "createdAt": null
-    },
-    {
-        "name": "Ivory",
-        "description": "A premium Mastodon client for iOS by Tapbots (makers of Tweetbot), featuring a refined interface and powerful customization options.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://tapbots.com/ivory",
-        "createdAt": null
-    },
-    {
-        "name": "Woolly",
-        "description": "A paid Mastodon app for iOS that offers a slick, intuitive interface with ample customization, aiming to feel at home on Apple devices.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628",
-        "createdAt": null
-    },
-    {
-        "name": "DAWN for Mastodon",
-        "description": "A feature-rich Mastodon client for iOS with an elegant design, supporting multiple columns and advanced filtering.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/dawn-for-mastodon/id1668645019",
-        "createdAt": null
-    },
-    {
-        "name": "Mona",
-        "description": "A powerful Mastodon client for iOS (inspired by the Tapbots' apps) offering extensive customization, multiple columns, and a smooth user experience.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/mona-for-mastodon/id1659154653",
-        "createdAt": null
-    },
-    {
-        "name": "Radiant",
-        "description": "A modern Mastodon client for iOS with a focus on visual appeal and simplicity, providing a seamless browsing experience.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://radiant.social",
-        "createdAt": null
-    },
-    {
-        "name": "feather",
-        "description": "A Mastodon app for iOS that emphasizes comfort and customization, renewing your Mastodon experience on mobile.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/feather-for-mastodon/id6446263061",
-        "createdAt": null
-    },
-    {
-        "name": "SoraSNS",
-        "description": "A futuristic iOS Fediverse client supporting Mastodon, Bluesky, Misskey (Firefish), offering a unified and beautiful experience across networks.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios", "watchos"],
-        "url": "https://apps.apple.com/us/app/sorasns-for-mastodon-bluesky/id6450969760",
-        "createdAt": null
-    },
-    {
-        "name": "Pipilo",
-        "description": "A Mastodon client for iOS with a focus on simplicity and clean design, delivering a straightforward social browsing experience.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/pipilo/id1584544719",
-        "createdAt": null
-    },
-    {
-        "name": "Pixelfed",
-        "description": "The official mobile app for Pixelfed, providing a decentralized Instagram-like experience on Android and iOS.",
-        "compatibility": ["Pixelfed"],
-        "categories": ["official", "client"],
-        "os": ["android", "ios"],
-        "url": "https://pixelfed.org/mobile-apps",
-        "createdAt": "January 2025"
-    },
-    {
-        "name": "PixelDroid",
-        "description": "An open-source Android client for Pixelfed that lets you browse feeds, view profiles, and share photos on the federated image platform.",
-        "compatibility": ["Pixelfed"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://f-droid.org/en/packages/org.pixeldroid.app/",
-        "createdAt": null
-    },
-    {
-        "name": "Pixelix",
-        "description": "A user-friendly Pixelfed client for Android and iOS focused on easy photo uploads, browsing, and sharing.",
-        "compatibility": ["Pixelfed"],
-        "categories": ["client"],
-        "os": ["android", "ios"],
-        "url": "https://app.pixelix.social",
-        "createdAt": null
-    },
-    {
-        "name": "Impressia",
-        "description": "A simple and intuitive Pixelfed client for iOS that showcases photos in a clean timeline and allows easy sharing and exploration.",
-        "compatibility": ["Pixelfed"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/impressia-for-pixelfed/id1663543216",
-        "createdAt": null
-    },
-    {
-        "name": "Husky",
-        "description": "A fast, lightweight Android client for Pleroma and Mastodon, supporting Pleroma-specific features like emoji reactions and unlimited attachments.",
-        "compatibility": ["Pleroma"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://husky.adol.pw",
-        "createdAt": null
-    },
-    {
-        "name": "Twidere",
-        "description": "A long-standing open-source Twitter client that now supports Mastodon/Pleroma as well, offering a material design interface on Android.",
-        "compatibility": ["Pleroma"],
-        "categories": ["client"],
-        "os": ["android", "ios"],
-        "url": "https://github.com/TwidereProject",
-        "createdAt": null
-    },
-    {
-        "name": "PeerTube",
-        "description": "The official mobile app for PeerTube, allowing you to discover, browse, and play decentralized videos on Android and iOS.",
-        "compatibility": ["PeerTube"],
-        "categories": ["official", "client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=org.framasoft.peertube",
-        "createdAt": "December 2024"
-    },
-    {
-        "name": "NewPipe",
-        "description": "A lightweight Android streaming frontend that supports PeerTube alongside other video platforms, enabling privacy-friendly video watching.",
-        "compatibility": ["PeerTube"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://newpipe.net",
-        "createdAt": null
-    },
-    {
-        "name": "Grayjay",
-        "description": "A source-first video player and aggregator (mobile-focused) that supports PeerTube and other sources for a unified viewing experience.",
-        "compatibility": ["PeerTube"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://grayjay.app",
-        "createdAt": null
-    },
-    {
-        "name": "Jerboa",
-        "description": "The official Lemmy app for Android, offering a native Reddit-like experience for Lemmy’s federated communities.",
-        "compatibility": ["Lemmy"],
-        "categories": ["official", "client"],
-        "os": ["android"],
-        "url": "https://github.com/LemmyNet/jerboa",
-        "createdAt": null
-    },
-    {
-        "name": "Voyager",
-        "description": "An Apollo-inspired open source Lemmy client (formerly \"wefwef\") available on web, Android, and iOS, focused on a mobile-first, smooth UI.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android", "ios", "web"],
-        "url": "https://wefwef.app",
-        "createdAt": null
-    },
-    {
-        "name": "Thunder",
-        "description": "A fully open-source Lemmy client built with Flutter, providing a unified experience on Android and iOS with a material design.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android", "ios"],
-        "url": "https://github.com/thunder-app/thunder",
-        "createdAt": null
-    },
-    {
-        "name": "Memmy",
-        "description": "An Apollo-inspired Lemmy client built with React Native, offering a sleek Reddit-like interface on iOS (and Android).",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["ios", "android"],
-        "url": "https://github.com/memmy-app/memmy",
-        "createdAt": null
-    },
-    {
-        "name": "Avelon",
-        "description": "A sleek, lightning-fast Lemmy app for iOS inspired by Apollo, featuring customizable gestures and a native iOS look and feel.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/avelon-for-lemmy/id6450952178",
-        "createdAt": null
-    },
-    {
-        "name": "Boost for Lemmy",
-        "description": "A smooth Lemmy browsing app for Android designed to provide a seamless experience on the decentralized platform.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy",
-        "createdAt": null
-    },
-    {
-        "name": "Connect for Lemmy",
-        "description": "A native Android Lemmy application modeled after Sync for Reddit, offering secure login, commenting, messaging, and more.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect",
-        "createdAt": null
-    },
-    {
-        "name": "Eternity",
-        "description": "Previously known as Infinity for Lemmy, this Android app is a fork of a popular Reddit client (Infinity) adapted for Lemmy’s federated communities.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=eu.toldi.infinityforlemmy",
-        "createdAt": null
-    },
-    {
-        "name": "Sync for Lemmy",
-        "description": "An Android app by a former Sync for Reddit developer, reimagined for Lemmy to provide a full-featured browsing experience with familiar design.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync",
-        "createdAt": null
-    },
-    {
-        "name": "Summit",
-        "description": "A Lemmy client for Android focused on ease of use, enabling browsing of hundreds of Lemmy communities with a straightforward interface.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=com.idunnololz.summit",
-        "createdAt": null
-    },
-    {
-        "name": "Arctius (Fennec)",
-        "description": "An open-source Lemmy client for Android formerly known as Fennec, emphasizing simplicity and accessibility in a beta stage.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://github.com/nick-delirium/lemmy-fennec",
-        "createdAt": null
-    },
-    {
-        "name": "Lemmios",
-        "description": "An open-source Lemmy client for iOS attempting to bring the elegance of Apollo for Reddit to Lemmy, currently in beta.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/lemmios/id6451038204",
-        "createdAt": null
-    },
-    {
-        "name": "Raccoon",
-        "description": "A Kotlin Multiplatform Lemmy client (Android focus) aiming to provide a native experience and currently in active development.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy?tab=readme-ov-file#want-to-try-it-out",
-        "createdAt": null
-    },
-    {
-        "name": "Photon",
-        "description": "An opinionated web client for Lemmy to help users discover the fediverse.",
-        "compatibility": ["Lemmy"],
-        "categories": ["client"],
-        "os": ["web"],
-        "url": "https://phtn.app/",
-        "createdAt": null
-    },
-    {
-        "name": "Milktea",
-        "description": "An Android Misskey client that lets you quickly access multiple timelines via tabs, including nickname support for users.",
-        "compatibility": ["Misskey"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient",
-        "createdAt": null
-    },
-    {
-        "name": "Miria",
-        "description": "A cross-platform Misskey client (iOS, macOS, Android) built with Flutter, featuring unique Misskey features like custom emoji tab icons.",
-        "compatibility": ["Misskey"],
-        "categories": ["client"],
-        "os": ["ios", "android", "desktop"],
-        "url": "https://shiosyakeyakini.info/miria_web/index.html",
-        "createdAt": null
-    },
-    {
-        "name": "MissCat",
-        "description": "A native Misskey client for iOS aimed at intuitive operation on smartphones, with a focus on smooth usability.",
-        "compatibility": ["Misskey"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/misscat-misskey-%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/id1505059993",
-        "createdAt": null
-    },
-    {
-        "name": "SocialHub",
-        "description": "A paid iOS app that supports Misskey alongside Mastodon, Twitter, Slack, and Tumblr, serving as a multi-network client.",
-        "compatibility": ["Misskey", "Mastodon"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://www.uakihir0.com/socialhub",
-        "createdAt": null
-    },
-    {
-        "name": "Aria for Misskey",
-        "description": "A comprehensive Android client for Misskey that supports most Misskey features, with multiple account swipe-switching and a UI resembling the official web client.",
-        "compatibility": ["Misskey"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://github.com/poppingmoon/Aria",
-        "createdAt": null
-    },
-    {
-        "name": "Kimis",
-        "description": "A fully-featured Misskey client for iOS (also on macOS/iPadOS) with a smooth UI, supporting any Misskey v13+ instance and offering high-performance scrolling.",
-        "compatibility": ["Misskey"],
-        "categories": ["client"],
-        "os": ["ios", "desktop"],
-        "url": "https://github.com/Lakr233/Kimis",
-        "createdAt": "July 2023"
-    },
-    {
-        "name": "Takesama",
-        "description": "A dual Mastodon/Misskey client available on Android (and iOS) that addresses issues from other clients and supports multiple accounts across instances.",
-        "compatibility": ["Misskey", "Mastodon"],
-        "categories": ["client"],
-        "os": ["android", "ios"],
-        "url": "https://takesama.com/",
-        "createdAt": null
-    },
-    {
-        "name": "Funkwhale (Android)",
-        "description": "The official Android app for Funkwhale, allowing you to stream music and podcasts from your Funkwhale server with a native interface.",
-        "compatibility": ["Funkwhale"],
-        "categories": ["official", "client"],
-        "os": ["android"],
-        "url": "https://f-droid.org/en/packages/audio.funkwhale.ffa/",
-        "createdAt": "July 2022"
-    },
-    {
-        "name": "DSub",
-        "description": "A mature Android music client (originally for Subsonic) that works with Funkwhale via its Subsonic API, supporting offline caching and playlist management.",
-        "compatibility": ["Funkwhale"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://f-droid.org/en/packages/github.daneren2005.dsub/",
-        "createdAt": null
-    },
-    {
-        "name": "Ultrasonic",
-        "description": "An open-source Android Subsonic client that can connect to Funkwhale, offering a modern interface to stream your music library.",
-        "compatibility": ["Funkwhale"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://f-droid.org/en/packages/org.moire.ultrasonic/",
-        "createdAt": null
-    },
-    {
-        "name": "Substreamer",
-        "description": "A free iOS app (also available on tvOS) that streams music from Funkwhale using the Subsonic API, with a polished interface for browsing and playback.",
-        "compatibility": ["Funkwhale"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/substreamer/id1012991665",
-        "createdAt": null
-    },
-    {
-        "name": "play:Sub",
-        "description": "A proprietary iOS music streamer for Subsonic-compatible servers (including Funkwhale), enabling library browsing and offline listening.",
-        "compatibility": ["Funkwhale"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/play-sub-music-streamer/id955329386",
-        "createdAt": null
-    },
-    {
-        "name": "Amperfy",
-        "description": "An open-source iOS Subsonic client that works with Funkwhale, featuring a clean UI and support for playlists and favorites.",
-        "compatibility": ["Funkwhale"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/amperfy-music/id1530145038",
-        "createdAt": null
-    },
-    {
-        "name": "WriteFreely for iOS",
-        "description": "The official iOS app for WriteFreely, featuring a distraction-free editor to write and publish to any WriteFreely instance or Write.as blog.",
-        "compatibility": ["WriteFreely"],
-        "categories": ["official", "client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/writefreely/id1531530896",
-        "createdAt": "August 2024"
-    },
-    {
-        "name": "IndiePass",
-        "description": "An open-source Android app supporting IndieWeb Micropub (for publishing to WriteFreely and similar) as well as Fediverse APIs (Mastodon, Pixelfed), allowing posting and reading across platforms.",
-        "compatibility": ["WriteFreely", "Mastodon", "Pixelfed"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://indiepass.app",
-        "createdAt": "May 2023"
-    },
-    {
-        "name": "Elk",
-        "description": "A nimble Mastodon web client providing a clean, modern interface for browsing, posting, and interacting with Mastodon timelines directly in your browser.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["web"],
-        "url": "https://elk.zone",
-        "createdAt": null
-    },
-    {
-        "name": "Fedica",
-        "description": "An all-in-one web tool for publishing, scheduling, and analyzing Mastodon content—automate posts and measure engagement through a unified dashboard.",
-        "compatibility": ["Mastodon"],
-        "categories": ["analytics", "utility", "tools"],
-        "os": ["web"],
-        "url": "https://fedica.com",
-        "createdAt": null
-    },
-    {
-        "name": "Phanpy",
-        "description": "A minimalistic, opinionated Mastodon web client focused on simplicity and performance; distributed as a static web app you can self‑host or use online.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["web"],
-        "url": "https://phanpy.social",
-        "createdAt": null
-    },
-    {
-        "name": "Ghost Social Web Reader",
-        "description": "An integrated web reader in Ghost(Pro) that lets you follow, read, and interact with Mastodon and other federated content from within the Ghost admin interface, featuring dedicated feed and inbox views.",
-        "compatibility": ["Ghost", "Mastodon"],
-        "categories": ["official", "client"],
-        "os": ["web"],
-        "url": "https://activitypub.ghost.org/social-web-beta/",
-        "createdAt": "March 2025"
-    },
-    {
-        "name": "Flipboard",
-        "description": "The official Flipboard app supports ActivityPub federation, allowing users to follow and interact with Mastodon and Pixelfed accounts alongside curated news feeds.",
-        "compatibility": ["Flipboard", "Mastodon", "Pixelfed"],
-        "categories": ["official", "client"],
-        "os": ["android", "ios", "web"],
-        "url": "https://about.flipboard.com/inside-flipboard/you-can-now-connect-your-pixelfed-account-to-flipboard/",
-        "createdAt": "May 2023"
-    },
-    {
-        "name": "Statuzer",
-        "description": "Multi-accounts, multi-columns Mastodon client.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["web"],
-        "url": "https://statuzer.com",
-        "createdAt": null
-    },
-    {
-        "name": "Wafrn",
-        "description": "The official mobile app for Wafrn, with some different design decisions than the web version. Wafrn is a social network inspired by Tumblr that connects to the Fediverse and Bluesky",
-        "compatibility": ["Wafrn"],
-        "categories": ["official", "client"],
-        "os": ["android", "ios"],
-        "url": "https://wafrn.net",
-        "createdAt": "Aug 2024"
-    },
-    {
-        "name": "Fedicat",
-        "description": "A fediverse client for iOS that attempts to support any platform with some degree of Mastodon API compatibility.",
-        "compatibility": ["Mastodon", "Pixelfed", "NeoDB", "Pleroma", "Akkoma", "Mitra", "Snac", "Takahe", "GotoSocial", "Friendica", "Iceshrimp", "Sharkey", "Hollo", "Bonfire"],
-        "categories": ["client"],
-        "os": ["ios"],
-        "url": "https://fedicat.com",
-        "createdAt": "March 2023"
-    },
-    {
-        "name": "Tuba",
-        "description": "Explore the federated social web with Tuba. Stay connected to your favorite communities, family and friends with support for popular Fediverse platforms.",
-        "compatibility": ["Mastodon", "GoToSocial", "Akkoma", "Pixelfed"],
-        "categories": ["client"],
-        "os": ["desktop"],
-        "url": "https://tuba.geopjr.dev/",
-        "createdAt": "April 2018"
-    },
-    {
-        "name": "Piecelet for NeoDB",
-        "description": "A NeoDB native client for iOS to track and share books, movies, episodes, music, games, and shows.",
-        "compatibility": ["NeoDB"],
-        "categories": ["client"],
-        "os": ["ios", "desktop"],
-        "url": "https://apps.apple.com/app/piecelet-for-neodb/id6739444863",
-        "createdAt": "January 2025"
-    },
-    {
-        "name": "NeoComment",
-        "description": "A user-friendly client for NeoDB to track, rate, review, and comment for books, movies, games, music and more.",
-        "compatibility": ["NeoDB"],
-        "categories": ["client"],
-        "os": ["android"],
-        "url": "https://github.com/mohammadrafigh/NeoComment",
-        "createdAt": "November 2025"
-    },
-    {
-        "name": "Tokodon",
-        "description": "Tokodon is a Mastodon client. It allows you to interact with the Fediverse community.",
-        "compatibility": ["Mastodon"],
-        "categories": ["client"],
-        "os": ["desktop", "android"],
-        "url": "https://apps.kde.org/tokodon/",
-        "createdAt": "May 2026"
-    },
-    {
-        "name": "Loops for iOS",
-        "description": "The official Loops iOS app.",
-        "compatibility": ["Loops"],
-        "categories": ["official", "client"],
-        "os": ["ios"],
-        "url": "https://apps.apple.com/us/app/loops-by-pixelfed/id6499375182",
-        "createdAt": "January 2026"
-    },
-    {
-        "name": "Loops for Android",
-        "description": "The official Loops Android app.",
-        "compatibility": ["Loops"],
-        "categories": ["official", "client"],
-        "os": ["android"],
-        "url": "https://play.google.com/store/apps/details?id=com.pixelfed.loops&ref=fedidb.com",
-        "createdAt": "June 2026"
-    }
+  {
+    "name": "Mastodon",
+    "description": "The official mobile client for Mastodon, offering a polished, easy-to-use interface on Android and iOS.",
+    "compatibility": ["Mastodon"],
+    "categories": ["official", "client"],
+    "os": ["android", "ios"],
+    "url": "https://joinmastodon.org/apps",
+    "createdAt": "April 2022"
+  },
+  {
+    "name": "Tusky",
+    "description": "A lightweight, open-source Mastodon client for Android supporting all Mastodon features (photos, videos, lists, custom emojis).",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://tusky.app",
+    "createdAt": null
+  },
+  {
+    "name": "Subway Tooter",
+    "description": "A powerful Mastodon client for Android with multi-account, multi-column support.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://github.com/tateisu/SubwayTooter",
+    "createdAt": null
+  },
+  {
+    "name": "Fedilab",
+    "description": "A multifunctional Android client supporting Mastodon, Pleroma, Friendica, and Pixelfed, with features like multi-account and moderation tools.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://fedilab.app",
+    "createdAt": null
+  },
+  {
+    "name": "Moshidon",
+    "description": "An open-source Android Mastodon client (forked from Megalodon) adding missing features like federated timeline support.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://lucasggamerm.github.io/moshidon/",
+    "createdAt": null
+  },
+  {
+    "name": "Rodent",
+    "description": "An Android client for Mastodon that implements most common features and introduces innovative twists for an enhanced experience.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://mastodonrodent.app",
+    "createdAt": null
+  },
+  {
+    "name": "Pachli",
+    "description": "A full-featured Android Mastodon client developed cooperatively, including filters, translations, and many power-user features.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://pachli.app",
+    "createdAt": null
+  },
+  {
+    "name": "Fread",
+    "description": "A next-generation microblogging client for Android that supports Mastodon, Bluesky, and RSS in one place.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://github.com/0xZhangKe/Fread",
+    "createdAt": null
+  },
+  {
+    "name": "Toot!",
+    "description": "A well-designed, feature-rich Mastodon client for iOS known for its playful interface and powerful functionality.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/app/toot/id1229021451",
+    "createdAt": null
+  },
+  {
+    "name": "iMast",
+    "description": "An open-source Mastodon client for iOS originating from Japan, offering advanced features and custom emoji support.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://github.com/cinderella-project/iMast",
+    "createdAt": null
+  },
+  {
+    "name": "Ice Cubes",
+    "description": "A free, open-source Mastodon client for iOS/macOS that embraces the latest Apple UI designs and offers multiple account support.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884",
+    "createdAt": null
+  },
+  {
+    "name": "Ivory",
+    "description": "A premium Mastodon client for iOS by Tapbots (makers of Tweetbot), featuring a refined interface and powerful customization options.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://tapbots.com/ivory",
+    "createdAt": null
+  },
+  {
+    "name": "Woolly",
+    "description": "A paid Mastodon app for iOS that offers a slick, intuitive interface with ample customization, aiming to feel at home on Apple devices.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/woolly-for-mastodon/id6444360628",
+    "createdAt": null
+  },
+  {
+    "name": "DAWN for Mastodon",
+    "description": "A feature-rich Mastodon client for iOS with an elegant design, supporting multiple columns and advanced filtering.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/dawn-for-mastodon/id1668645019",
+    "createdAt": null
+  },
+  {
+    "name": "Mona",
+    "description": "A powerful Mastodon client for iOS (inspired by the Tapbots' apps) offering extensive customization, multiple columns, and a smooth user experience.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/mona-for-mastodon/id1659154653",
+    "createdAt": null
+  },
+  {
+    "name": "Radiant",
+    "description": "A modern Mastodon client for iOS with a focus on visual appeal and simplicity, providing a seamless browsing experience.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://radiant.social",
+    "createdAt": null
+  },
+  {
+    "name": "feather",
+    "description": "A Mastodon app for iOS that emphasizes comfort and customization, renewing your Mastodon experience on mobile.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/feather-for-mastodon/id6446263061",
+    "createdAt": null
+  },
+  {
+    "name": "SoraSNS",
+    "description": "A futuristic iOS Fediverse client supporting Mastodon, Bluesky, Misskey (Firefish), offering a unified and beautiful experience across networks.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios", "watchos"],
+    "url": "https://apps.apple.com/us/app/sorasns-for-mastodon-bluesky/id6450969760",
+    "createdAt": null
+  },
+  {
+    "name": "Pipilo",
+    "description": "A Mastodon client for iOS with a focus on simplicity and clean design, delivering a straightforward social browsing experience.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/pipilo/id1584544719",
+    "createdAt": null
+  },
+  {
+    "name": "Pixelfed",
+    "description": "The official mobile app for Pixelfed, providing a decentralized Instagram-like experience on Android and iOS.",
+    "compatibility": ["Pixelfed"],
+    "categories": ["official", "client"],
+    "os": ["android", "ios"],
+    "url": "https://pixelfed.org/mobile-apps",
+    "createdAt": "January 2025"
+  },
+  {
+    "name": "PixelDroid",
+    "description": "An open-source Android client for Pixelfed that lets you browse feeds, view profiles, and share photos on the federated image platform.",
+    "compatibility": ["Pixelfed"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://f-droid.org/en/packages/org.pixeldroid.app/",
+    "createdAt": null
+  },
+  {
+    "name": "Pixelix",
+    "description": "A user-friendly Pixelfed client for Android and iOS focused on easy photo uploads, browsing, and sharing.",
+    "compatibility": ["Pixelfed"],
+    "categories": ["client"],
+    "os": ["android", "ios"],
+    "url": "https://app.pixelix.social",
+    "createdAt": null
+  },
+  {
+    "name": "Impressia",
+    "description": "A simple and intuitive Pixelfed client for iOS that showcases photos in a clean timeline and allows easy sharing and exploration.",
+    "compatibility": ["Pixelfed"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/impressia-for-pixelfed/id1663543216",
+    "createdAt": null
+  },
+  {
+    "name": "Husky",
+    "description": "A fast, lightweight Android client for Pleroma and Mastodon, supporting Pleroma-specific features like emoji reactions and unlimited attachments.",
+    "compatibility": ["Pleroma"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://husky.adol.pw",
+    "createdAt": null
+  },
+  {
+    "name": "Twidere",
+    "description": "A long-standing open-source Twitter client that now supports Mastodon/Pleroma as well, offering a material design interface on Android.",
+    "compatibility": ["Pleroma"],
+    "categories": ["client"],
+    "os": ["android", "ios"],
+    "url": "https://github.com/TwidereProject",
+    "createdAt": null
+  },
+  {
+    "name": "PeerTube",
+    "description": "The official mobile app for PeerTube, allowing you to discover, browse, and play decentralized videos on Android and iOS.",
+    "compatibility": ["PeerTube"],
+    "categories": ["official", "client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=org.framasoft.peertube",
+    "createdAt": "December 2024"
+  },
+  {
+    "name": "NewPipe",
+    "description": "A lightweight Android streaming frontend that supports PeerTube alongside other video platforms, enabling privacy-friendly video watching.",
+    "compatibility": ["PeerTube"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://newpipe.net",
+    "createdAt": null
+  },
+  {
+    "name": "Grayjay",
+    "description": "A source-first video player and aggregator (mobile-focused) that supports PeerTube and other sources for a unified viewing experience.",
+    "compatibility": ["PeerTube"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://grayjay.app",
+    "createdAt": null
+  },
+  {
+    "name": "Jerboa",
+    "description": "The official Lemmy app for Android, offering a native Reddit-like experience for Lemmy’s federated communities.",
+    "compatibility": ["Lemmy"],
+    "categories": ["official", "client"],
+    "os": ["android"],
+    "url": "https://github.com/LemmyNet/jerboa",
+    "createdAt": null
+  },
+  {
+    "name": "Voyager",
+    "description": "An Apollo-inspired open source Lemmy client (formerly \"wefwef\") available on web, Android, and iOS, focused on a mobile-first, smooth UI.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android", "ios", "web"],
+    "url": "https://wefwef.app",
+    "createdAt": null
+  },
+  {
+    "name": "Thunder",
+    "description": "A fully open-source Lemmy client built with Flutter, providing a unified experience on Android and iOS with a material design.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android", "ios"],
+    "url": "https://github.com/thunder-app/thunder",
+    "createdAt": null
+  },
+  {
+    "name": "Memmy",
+    "description": "An Apollo-inspired Lemmy client built with React Native, offering a sleek Reddit-like interface on iOS (and Android).",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["ios", "android"],
+    "url": "https://github.com/memmy-app/memmy",
+    "createdAt": null
+  },
+  {
+    "name": "Avelon",
+    "description": "A sleek, lightning-fast Lemmy app for iOS inspired by Apollo, featuring customizable gestures and a native iOS look and feel.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/avelon-for-lemmy/id6450952178",
+    "createdAt": null
+  },
+  {
+    "name": "Boost for Lemmy",
+    "description": "A smooth Lemmy browsing app for Android designed to provide a seamless experience on the decentralized platform.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy",
+    "createdAt": null
+  },
+  {
+    "name": "Connect for Lemmy",
+    "description": "A native Android Lemmy application modeled after Sync for Reddit, offering secure login, commenting, messaging, and more.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect",
+    "createdAt": null
+  },
+  {
+    "name": "Eternity",
+    "description": "Previously known as Infinity for Lemmy, this Android app is a fork of a popular Reddit client (Infinity) adapted for Lemmy’s federated communities.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=eu.toldi.infinityforlemmy",
+    "createdAt": null
+  },
+  {
+    "name": "Sync for Lemmy",
+    "description": "An Android app by a former Sync for Reddit developer, reimagined for Lemmy to provide a full-featured browsing experience with familiar design.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync",
+    "createdAt": null
+  },
+  {
+    "name": "Summit",
+    "description": "A Lemmy client for Android focused on ease of use, enabling browsing of hundreds of Lemmy communities with a straightforward interface.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=com.idunnololz.summit",
+    "createdAt": null
+  },
+  {
+    "name": "Arctius (Fennec)",
+    "description": "An open-source Lemmy client for Android formerly known as Fennec, emphasizing simplicity and accessibility in a beta stage.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://github.com/nick-delirium/lemmy-fennec",
+    "createdAt": null
+  },
+  {
+    "name": "Lemmios",
+    "description": "An open-source Lemmy client for iOS attempting to bring the elegance of Apollo for Reddit to Lemmy, currently in beta.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/lemmios/id6451038204",
+    "createdAt": null
+  },
+  {
+    "name": "Raccoon",
+    "description": "A Kotlin Multiplatform Lemmy client (Android focus) aiming to provide a native experience and currently in active development.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy?tab=readme-ov-file#want-to-try-it-out",
+    "createdAt": null
+  },
+  {
+    "name": "Photon",
+    "description": "An opinionated web client for Lemmy to help users discover the fediverse.",
+    "compatibility": ["Lemmy"],
+    "categories": ["client"],
+    "os": ["web"],
+    "url": "https://phtn.app/",
+    "createdAt": null
+  },
+  {
+    "name": "Milktea",
+    "description": "An Android Misskey client that lets you quickly access multiple timelines via tabs, including nickname support for users.",
+    "compatibility": ["Misskey"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient",
+    "createdAt": null
+  },
+  {
+    "name": "Miria",
+    "description": "A cross-platform Misskey client (iOS, macOS, Android) built with Flutter, featuring unique Misskey features like custom emoji tab icons.",
+    "compatibility": ["Misskey"],
+    "categories": ["client"],
+    "os": ["ios", "android", "desktop"],
+    "url": "https://shiosyakeyakini.info/miria_web/index.html",
+    "createdAt": null
+  },
+  {
+    "name": "MissCat",
+    "description": "A native Misskey client for iOS aimed at intuitive operation on smartphones, with a focus on smooth usability.",
+    "compatibility": ["Misskey"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/misscat-misskey-%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/id1505059993",
+    "createdAt": null
+  },
+  {
+    "name": "SocialHub",
+    "description": "A paid iOS app that supports Misskey alongside Mastodon, Twitter, Slack, and Tumblr, serving as a multi-network client.",
+    "compatibility": ["Misskey", "Mastodon"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://www.uakihir0.com/socialhub",
+    "createdAt": null
+  },
+  {
+    "name": "Aria for Misskey",
+    "description": "A comprehensive Android client for Misskey that supports most Misskey features, with multiple account swipe-switching and a UI resembling the official web client.",
+    "compatibility": ["Misskey"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://github.com/poppingmoon/Aria",
+    "createdAt": null
+  },
+  {
+    "name": "Kimis",
+    "description": "A fully-featured Misskey client for iOS (also on macOS/iPadOS) with a smooth UI, supporting any Misskey v13+ instance and offering high-performance scrolling.",
+    "compatibility": ["Misskey"],
+    "categories": ["client"],
+    "os": ["ios", "desktop"],
+    "url": "https://github.com/Lakr233/Kimis",
+    "createdAt": "July 2023"
+  },
+  {
+    "name": "Takesama",
+    "description": "A dual Mastodon/Misskey client available on Android (and iOS) that addresses issues from other clients and supports multiple accounts across instances.",
+    "compatibility": ["Misskey", "Mastodon"],
+    "categories": ["client"],
+    "os": ["android", "ios"],
+    "url": "https://takesama.com/",
+    "createdAt": null
+  },
+  {
+    "name": "Funkwhale (Android)",
+    "description": "The official Android app for Funkwhale, allowing you to stream music and podcasts from your Funkwhale server with a native interface.",
+    "compatibility": ["Funkwhale"],
+    "categories": ["official", "client"],
+    "os": ["android"],
+    "url": "https://f-droid.org/en/packages/audio.funkwhale.ffa/",
+    "createdAt": "July 2022"
+  },
+  {
+    "name": "DSub",
+    "description": "A mature Android music client (originally for Subsonic) that works with Funkwhale via its Subsonic API, supporting offline caching and playlist management.",
+    "compatibility": ["Funkwhale"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://f-droid.org/en/packages/github.daneren2005.dsub/",
+    "createdAt": null
+  },
+  {
+    "name": "Ultrasonic",
+    "description": "An open-source Android Subsonic client that can connect to Funkwhale, offering a modern interface to stream your music library.",
+    "compatibility": ["Funkwhale"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://f-droid.org/en/packages/org.moire.ultrasonic/",
+    "createdAt": null
+  },
+  {
+    "name": "Substreamer",
+    "description": "A free iOS app (also available on tvOS) that streams music from Funkwhale using the Subsonic API, with a polished interface for browsing and playback.",
+    "compatibility": ["Funkwhale"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/substreamer/id1012991665",
+    "createdAt": null
+  },
+  {
+    "name": "play:Sub",
+    "description": "A proprietary iOS music streamer for Subsonic-compatible servers (including Funkwhale), enabling library browsing and offline listening.",
+    "compatibility": ["Funkwhale"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/play-sub-music-streamer/id955329386",
+    "createdAt": null
+  },
+  {
+    "name": "Amperfy",
+    "description": "An open-source iOS Subsonic client that works with Funkwhale, featuring a clean UI and support for playlists and favorites.",
+    "compatibility": ["Funkwhale"],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/amperfy-music/id1530145038",
+    "createdAt": null
+  },
+  {
+    "name": "WriteFreely for iOS",
+    "description": "The official iOS app for WriteFreely, featuring a distraction-free editor to write and publish to any WriteFreely instance or Write.as blog.",
+    "compatibility": ["WriteFreely"],
+    "categories": ["official", "client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/writefreely/id1531530896",
+    "createdAt": "August 2024"
+  },
+  {
+    "name": "IndiePass",
+    "description": "An open-source Android app supporting IndieWeb Micropub (for publishing to WriteFreely and similar) as well as Fediverse APIs (Mastodon, Pixelfed), allowing posting and reading across platforms.",
+    "compatibility": ["WriteFreely", "Mastodon", "Pixelfed"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://indiepass.app",
+    "createdAt": "May 2023"
+  },
+  {
+    "name": "Elk",
+    "description": "A nimble Mastodon web client providing a clean, modern interface for browsing, posting, and interacting with Mastodon timelines directly in your browser.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["web"],
+    "url": "https://elk.zone",
+    "createdAt": null
+  },
+  {
+    "name": "Fedica",
+    "description": "An all-in-one web tool for publishing, scheduling, and analyzing Mastodon content—automate posts and measure engagement through a unified dashboard.",
+    "compatibility": ["Mastodon"],
+    "categories": ["analytics", "utility", "tools"],
+    "os": ["web"],
+    "url": "https://fedica.com",
+    "createdAt": null
+  },
+  {
+    "name": "Phanpy",
+    "description": "A minimalistic, opinionated Mastodon web client focused on simplicity and performance; distributed as a static web app you can self‑host or use online.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["web"],
+    "url": "https://phanpy.social",
+    "createdAt": null
+  },
+  {
+    "name": "Ghost Social Web Reader",
+    "description": "An integrated web reader in Ghost(Pro) that lets you follow, read, and interact with Mastodon and other federated content from within the Ghost admin interface, featuring dedicated feed and inbox views.",
+    "compatibility": ["Ghost", "Mastodon"],
+    "categories": ["official", "client"],
+    "os": ["web"],
+    "url": "https://activitypub.ghost.org/social-web-beta/",
+    "createdAt": "March 2025"
+  },
+  {
+    "name": "Flipboard",
+    "description": "The official Flipboard app supports ActivityPub federation, allowing users to follow and interact with Mastodon and Pixelfed accounts alongside curated news feeds.",
+    "compatibility": ["Flipboard", "Mastodon", "Pixelfed"],
+    "categories": ["official", "client"],
+    "os": ["android", "ios", "web"],
+    "url": "https://about.flipboard.com/inside-flipboard/you-can-now-connect-your-pixelfed-account-to-flipboard/",
+    "createdAt": "May 2023"
+  },
+  {
+    "name": "Statuzer",
+    "description": "Multi-accounts, multi-columns Mastodon client.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["web"],
+    "url": "https://statuzer.com",
+    "createdAt": null
+  },
+  {
+    "name": "Wafrn",
+    "description": "The official mobile app for Wafrn, with some different design decisions than the web version. Wafrn is a social network inspired by Tumblr that connects to the Fediverse and Bluesky",
+    "compatibility": ["Wafrn"],
+    "categories": ["official", "client"],
+    "os": ["android", "ios"],
+    "url": "https://wafrn.net",
+    "createdAt": "Aug 2024"
+  },
+  {
+    "name": "Fedicat",
+    "description": "A fediverse client for iOS that attempts to support any platform with some degree of Mastodon API compatibility.",
+    "compatibility": [
+      "Mastodon",
+      "Pixelfed",
+      "NeoDB",
+      "Pleroma",
+      "Akkoma",
+      "Mitra",
+      "Snac",
+      "Takahe",
+      "GotoSocial",
+      "Friendica",
+      "Iceshrimp",
+      "Sharkey",
+      "Hollo",
+      "Bonfire"
+    ],
+    "categories": ["client"],
+    "os": ["ios"],
+    "url": "https://fedicat.com",
+    "createdAt": "March 2023"
+  },
+  {
+    "name": "Tuba",
+    "description": "Explore the federated social web with Tuba. Stay connected to your favorite communities, family and friends with support for popular Fediverse platforms.",
+    "compatibility": ["Mastodon", "GoToSocial", "Akkoma", "Pixelfed"],
+    "categories": ["client"],
+    "os": ["desktop"],
+    "url": "https://tuba.geopjr.dev/",
+    "createdAt": "April 2018"
+  },
+  {
+    "name": "Piecelet for NeoDB",
+    "description": "A NeoDB native client for iOS to track and share books, movies, episodes, music, games, and shows.",
+    "compatibility": ["NeoDB"],
+    "categories": ["client"],
+    "os": ["ios", "desktop"],
+    "url": "https://apps.apple.com/app/piecelet-for-neodb/id6739444863",
+    "createdAt": "January 2025"
+  },
+  {
+    "name": "NeoComment",
+    "description": "A user-friendly client for NeoDB to track, rate, review, and comment for books, movies, games, music and more.",
+    "compatibility": ["NeoDB"],
+    "categories": ["client"],
+    "os": ["android"],
+    "url": "https://github.com/mohammadrafigh/NeoComment",
+    "createdAt": "November 2025"
+  },
+  {
+    "name": "Tokodon",
+    "description": "Tokodon is a Mastodon client. It allows you to interact with the Fediverse community.",
+    "compatibility": ["Mastodon"],
+    "categories": ["client"],
+    "os": ["desktop", "android"],
+    "url": "https://apps.kde.org/tokodon/",
+    "createdAt": "May 2026"
+  },
+  {
+    "name": "Loops for iOS",
+    "description": "The official Loops iOS app.",
+    "compatibility": ["Loops"],
+    "categories": ["official", "client"],
+    "os": ["ios"],
+    "url": "https://apps.apple.com/us/app/loops-by-pixelfed/id6499375182",
+    "createdAt": "January 2026"
+  },
+  {
+    "name": "Loops for Android",
+    "description": "The official Loops Android app.",
+    "compatibility": ["Loops"],
+    "categories": ["official", "client"],
+    "os": ["android"],
+    "url": "https://play.google.com/store/apps/details?id=com.pixelfed.loops&ref=fedidb.com",
+    "createdAt": "June 2026"
+  },
+  {
+    "name": "Tunecamp",
+    "description": "The official web interface and PWA for Tunecamp, a self-hosted music streaming server with built-in player, waveform visualization, playlist management, and ActivityPub social features.",
+    "compatibility": ["Tunecamp"],
+    "categories": ["official", "client"],
+    "os": ["web"],
+    "url": "https://github.com/scobru/tunecamp",
+    "createdAt": "July 2026"
+  }
 ]
