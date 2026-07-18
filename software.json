@@ -1610,12 +1610,12 @@
             "microblogging"
         ],
         "key_features": [
-	    "Local and federated timelines",
+            "Local and federated timelines",
             "Media attachments",
             "Content warnings",
             "Custom filtering",
-	    "Fast",
-	    "Lightweight"
+            "Fast",
+            "Lightweight"
         ],
         "description": "A lightweight server implementing the ActivityPub protocol in Python over fastAPI.",
         "license": "GNU GENERAL PUBLIC LICENSE, Version 3",
@@ -1631,61 +1631,61 @@
         "logo_source_url": "https://codeberg.org/spla/appy/raw/branch/main/static/appy.png",
         "logo_source_version": null
     },
-	  {
-	    "name": "Socialhome",
-	    "slug": "socialhome",
-	    "categories": [
-          "microblogging",
-          "blogging",
-          "image-sharing",
-          "audio",
-          "video"
-	    ],
-	    "key_features": [
-           "Federation with various protocols",
-          "Photo and video sharing",
-          "Rich text formatting",
-          "Markdown editor",
-          "Pinterest style grid UI"
-       ],
-	    "description": "Federated personal profile with rich content.",
-	    "license": "AGPL",
-	    "source_code": "https://codeberg.org/socialhome",
-	    "website": "https://socialhome.network",
-      "apps_url": null,
-      "join_url": null,
-      "api_docs_url": null,
-      "support_url": null,
-      "forum_url": null,
-      "donate_url": null,
-	    "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
-	    "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
-	    "logo_source_version": 1
-	},
-	{
-	    "name": "Castopod",
-	    "slug": "castopod",
-	    "categories": [
-			    "audio"
-	    ],
-	    "key_features": [
-          "Federation with various protocols",
-          "Podcast sharing"
-      ],
-	    "description": "The free and open-source solution to your podcasting 2.0 journey.",
-	    "license": "AGPL",
-	    "source_code": "https://code.castopod.org/adaures/castopod",
-	    "website": "https://castopod.org",
-      "apps_url": null,
-      "join_url": "https://index.castopod.org",
-      "api_docs_url": "https://docs.castopod.org/next/en/api/",
-      "support_url": "https://code.castopod.org/adaures/castopod/issues",
-      "forum_url": "https://castopod.org/discord",
-      "donate_url": null,
-	    "matrix_url": null,
-	    "logo_source_url": "https://code.castopod.org/adaures/castopod/-/raw/develop/docs/src/assets/castopod-logo-inline.svg",
-	    "logo_source_version": 1
-	  },
+    {
+        "name": "Socialhome",
+        "slug": "socialhome",
+        "categories": [
+            "microblogging",
+            "blogging",
+            "image-sharing",
+            "audio",
+            "video"
+        ],
+        "key_features": [
+            "Federation with various protocols",
+            "Photo and video sharing",
+            "Rich text formatting",
+            "Markdown editor",
+            "Pinterest style grid UI"
+        ],
+        "description": "Federated personal profile with rich content.",
+        "license": "AGPL",
+        "source_code": "https://codeberg.org/socialhome",
+        "website": "https://socialhome.network",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": "https://matrix.to/#/#socialhome:federator.dev",
+        "logo_source_url": "https://socialhome.network/static/images/logo/Socialhome-dark-96.png",
+        "logo_source_version": 1
+    },
+    {
+        "name": "Castopod",
+        "slug": "castopod",
+        "categories": [
+            "audio"
+        ],
+        "key_features": [
+            "Federation with various protocols",
+            "Podcast sharing"
+        ],
+        "description": "The free and open-source solution to your podcasting 2.0 journey.",
+        "license": "AGPL",
+        "source_code": "https://code.castopod.org/adaures/castopod",
+        "website": "https://castopod.org",
+        "apps_url": null,
+        "join_url": "https://index.castopod.org",
+        "api_docs_url": "https://docs.castopod.org/next/en/api/",
+        "support_url": "https://code.castopod.org/adaures/castopod/issues",
+        "forum_url": "https://castopod.org/discord",
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": "https://code.castopod.org/adaures/castopod/-/raw/develop/docs/src/assets/castopod-logo-inline.svg",
+        "logo_source_version": 1
+    },
     {
         "name": "murlog",
         "slug": "murlog",
@@ -1712,6 +1712,64 @@
         "donate_url": null,
         "matrix_url": null,
         "logo_source_url": "https://raw.githubusercontent.com/murlog-org/murlog/main/web/public/icon-512.png",
+        "logo_source_version": 1
+    },
+    {
+        "name": "smallhold",
+        "slug": "smallhold",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "Single binary, no sidecars",
+            "SQLite database, no PostgreSQL",
+            "Mastodon Client API compatible",
+            "Multiple personas per domain",
+            "Full-text search built-in",
+            "WebAuthn passkey login",
+            "Mastodon data import"
+        ],
+        "description": "A single-binary, SQLite-backed ActivityPub server that speaks the Mastodon Client API.",
+        "license": "AGPL",
+        "source_code": "https://github.com/MarkAtwood/smallhold",
+        "website": "https://github.com/MarkAtwood/smallhold",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/MarkAtwood/smallhold/issues",
+        "forum_url": "https://github.com/MarkAtwood/smallhold/discussions",
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": 1
+    },
+    {
+        "name": "broadside",
+        "slug": "broadside",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "One-way ActivityPub broadcast",
+            "Organization-focused publishing",
+            "RSS/Atom feed ingestion",
+            "Webhook-triggered posting",
+            "File watcher for content",
+            "Single binary, SQLite",
+            "No client API needed"
+        ],
+        "description": "A one-way ActivityPub broadcast server for organizations. Publish to the fediverse from RSS feeds, webhooks, or file drops.",
+        "license": "AGPL",
+        "source_code": "https://github.com/MarkAtwood/broadside",
+        "website": "https://github.com/MarkAtwood/broadside",
+        "apps_url": null,
+        "join_url": null,
+        "api_docs_url": null,
+        "support_url": "https://github.com/MarkAtwood/broadside/issues",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
         "logo_source_version": 1
     }
 ]
