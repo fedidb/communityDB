@@ -1713,5 +1713,35 @@
         "matrix_url": null,
         "logo_source_url": "https://raw.githubusercontent.com/murlog-org/murlog/main/web/public/icon-512.png",
         "logo_source_version": 1
+    },
+    {
+        "name": "Welley",
+        "slug": "welley",
+        "categories": [
+            "microblogging",
+            "forum"
+        ],
+        "key_features": [
+            "Groups with roles and moderation",
+            "Forums with threaded discussions",
+            "Channels inside groups",
+            "Group federation across servers",
+            "Mastodon-compatible federation",
+            "Events",
+            "Search via FASP"
+        ],
+        "description": "Groups and forums for the fediverse.",
+        "license": null,
+        "source_code": null,
+        "website": "https://welley.social",
+        "apps_url": null,
+        "join_url": "https://welley.social",
+        "api_docs_url": "https://welley.social/q/swagger-ui/",
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": null,
+        "logo_source_version": 1
     }
 ]
