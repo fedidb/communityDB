@@ -1713,5 +1713,32 @@
         "matrix_url": null,
         "logo_source_url": "https://raw.githubusercontent.com/murlog-org/murlog/main/web/public/icon-512.png",
         "logo_source_version": 1
-    }
+    },
+	{
+    "name": "MovieBuff",
+    "slug": "moviebuff",
+    "categories": ["other"],
+    "key_features": [
+        "Film and TV logging",
+        "Ratings, reviews and watchlists",
+        "Series tracked episode by episode",
+        "Federates film and TV marks with NeoDB",
+        "Letterboxd and MyAnimeList imports",
+        "Jellyfin watch sync",
+        "Release calendar for your shelves"
+    ],
+    "description": "A federated social network for film and TV: log what you watch, rate and review it, keep watchlists, and follow people across the Fediverse.",
+    "license": "GPL-3.0",
+    "source_code": "https://codeberg.org/retiolus/moviebuff",
+    "website": "https://codeberg.org/retiolus/moviebuff",
+    "apps_url": null,
+    "join_url": "https://moviebuff.social/register/",
+    "api_docs_url": null,
+    "support_url": "https://codeberg.org/retiolus/moviebuff/issues",
+    "forum_url": null,
+    "donate_url": null,
+    "matrix_url": null,
+    "logo_source_url": "https://moviebuff.social/static/img/pwa/icon-512.png",
+    "logo_source_version": 1
+	}
 ]
