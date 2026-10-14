@@ -558,16 +558,17 @@
         "name": "Smithereen",
         "slug": "smithereen",
         "categories": [
-            "microblogging"
+            "microblogging",
+            "events",
+            "forum"
         ],
         "key_features": [
-            "Social groups and events",
+            "Facebook-like social networking",
+            "Wall-to-wall posts",
+            "Groups and events",
+            "Discussion boards",
             "Photo albums",
-            "Federated timelines",
-            "Advanced privacy settings",
-            "Discussion forums",
-            "Friend lists",
-            "User-friendly interface"
+            "Advanced profiles"
         ],
         "description": "Federated, ActivityPub-compatible social network server with friends, walls, and groups.",
         "license": "Unlicense",
@@ -575,13 +576,13 @@
         "website": "https://smithereen.software",
         "apps_url": null,
         "join_url": null,
-        "api_docs_url": null,
+        "api_docs_url": "https://smithereen.software/docs/api",
         "support_url": null,
         "forum_url": "https://t.me/SmithereenProject",
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://raw.githubusercontent.com/grishka/Smithereen/refs/heads/master/img/logo512.png",
+        "logo_source_version": 1
     },
     {
         "name": "Lemmy",
