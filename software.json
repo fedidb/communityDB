@@ -1771,5 +1771,29 @@
         "matrix_url": null,
         "logo_source_url": null,
         "logo_source_version": 1
+    },
+    {
+        "name": "SiliconBeest",
+        "slug": "siliconbeest",
+        "categories": [
+            "microblogging"
+        ],
+        "key_features": [
+            "100% serverless on Cloudflare Workers",
+            "ActivityPub federation using Fedify"
+        ],
+        "description": "An ActivityPub built on Cloudflare Workers, running across the global edge without a traditional server.",
+        "license": "AGPL",
+        "source_code": "https://github.com/SJang1/siliconbeest",
+        "website": "https://siliconbeest.io",
+        "apps_url": null,
+        "join_url": "https://siliconbeest.io/instances",
+        "api_docs_url": null,
+        "support_url": "https://siliconbeest.io/contact",
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": null,
+        "logo_source_url": "https://raw.githubusercontent.com/SiliconBeest-io/siliconbeest.io/main/static/brand/siliconbeest.png",
+        "logo_source_version": 1
     }
 ]
