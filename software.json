@@ -1852,5 +1852,30 @@
         "matrix_url": null,
         "logo_source_url": "https://moviebuff.social/static/img/pwa/icon-512.png",
         "logo_source_version": 1
-	}
+    },
+    {
+        "name": "Cookifed",
+        "slug": "cookifed",
+        "categories": ["other"],
+        "key_features": [
+            "Recipe management and organization",
+            "Daily and weekly preparation planning",
+            "Media attachments",
+            "Recipe sharing with privacy controls",
+            "ActivityPub federation"
+        ],
+        "description": "An open-source, federated platform for sharing recipes, planning your preparations, and experimenting in the kitchen.",
+        "license": "AGPL-3.0",
+        "source_code": "https://codeberg.org/cookifed/cookifed",
+        "website": "https://cookifed.dev/",
+        "apps_url": null,
+        "join_url": "https://cookifed.net/users/sign_up",
+        "api_docs_url": "https://cookifed.dev/docs/api/",
+        "support_url": null,
+        "forum_url": null,
+        "donate_url": null,
+        "matrix_url": "https://matrix.to/#/#cookifed:matrix.org",
+        "logo_source_url": "https://cookifed.dev/images/logo.png",
+        "logo_source_version": 1
+    }
 ]
