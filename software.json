@@ -6219,8 +6219,8 @@
         "slug": "activitypods",
         "categories": [],
         "key_features": [],
-        "description": null,
-        "license": null,
+        "description": "ActivityPods brings together two game-changing technologies, ActivityPub and Solid Pods, and empowers developers to create truly decentralized applications",
+        "license": "Apache 2.0",
         "source_code": "https://github.com/assemblee-virtuelle/activitypods.git",
         "website": "https://activitypods.org",
         "apps_url": null,
@@ -6230,8 +6230,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://activitypods.org/_astro/favicon.DrmiF__T_ch5Sk.svg",
+        "logo_source_version": 1
     },
     {
         "name": "Careercupid",
