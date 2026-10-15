@@ -551,7 +551,7 @@
     {
         "name": "Flipboard",
         "description": "The official Flipboard app supports ActivityPub federation, allowing users to follow and interact with Mastodon and Pixelfed accounts alongside curated news feeds.",
-        "compatibility": ["Flipboard", "Mastodon", "Pixelfed"],
+        "compatibility": ["Flipboard", "Mastodon"],
         "categories": ["official", "client"],
         "os": ["android", "ios", "web"],
         "url": "https://about.flipboard.com/inside-flipboard/you-can-now-connect-your-pixelfed-account-to-flipboard/",
