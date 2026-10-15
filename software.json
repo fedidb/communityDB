@@ -6920,11 +6920,11 @@
     {
         "name": "Zerocat",
         "slug": "zerocat",
-        "categories": [],
+        "categories": ["microblogging"],
         "key_features": [],
         "description": null,
-        "license": null,
-        "source_code": null,
+        "license": "BSD-2",
+        "source_code": "https://github.com/ZeroCatDev/talebook",
         "website": "https://github.com/Moonrend/ZeroCat",
         "apps_url": null,
         "join_url": null,
@@ -6933,8 +6933,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://zerocat.dev/favicon.png",
+        "logo_source_version": 1
     },
     {
         "name": "Feediverse",
