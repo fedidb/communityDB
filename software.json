@@ -244,8 +244,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://writefreely.org/img/icon.svg",
+        "logo_source_version": 1
     },
     {
         "name": "Bookwyrm",
