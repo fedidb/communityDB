@@ -3627,8 +3627,8 @@
         "forum_url": "https://discord.gg/uprvcH8gqD",
         "donate_url": "https://ko-fi.com/neodb",
         "matrix_url": "https://matrix.to/#/#neodb:matrix.org",
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://neodb.net/assets/favicon.svg",
+        "logo_source_version": 1
     },
     {
         "name": "appy",
