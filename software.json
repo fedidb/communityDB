@@ -4847,7 +4847,7 @@
         "logo_source_version": null
     },
     {
-        "name": "Activitypub Dot Bot",
+        "name": "Activitypub.Bot",
         "slug": "activitypub-dot-bot",
         "categories": ["bot"],
         "key_features": [],
