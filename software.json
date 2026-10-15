@@ -142,8 +142,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": "https://framagit.org/hubzilla/core/-/raw/master/images/hubzilla_logo_3.png?ref_type=heads",
-        "logo_source_version": 1
+        "logo_source_url": "https://fedidb.org/storage/software-logos/hubzilla.png",
+        "logo_source_version": 2
     },
     {
         "name": "GNU social",
