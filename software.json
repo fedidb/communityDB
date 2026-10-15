@@ -4754,12 +4754,12 @@
     {
         "name": "Xenomorph",
         "slug": "xenomorph",
-        "categories": [],
+        "categories": ["microblogging"],
         "key_features": [],
-        "description": null,
-        "license": null,
-        "source_code": null,
-        "website": null,
+        "description": "Xenomorph is a usable ActivityPub server written in Ada.",
+        "license": "EUPL",
+        "source_code": "https://git.keinpfusch.net/loweel/xenomorph",
+        "website": "https://git.keinpfusch.net/loweel/xenomorph/",
         "apps_url": null,
         "join_url": null,
         "api_docs_url": null,
@@ -4767,8 +4767,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://git.keinpfusch.net/loweel/xenomorph/raw/branch/master/static/xenomorph/default-icon.jpg",
+        "logo_source_version": 1
     },
     {
         "name": "Noval",
