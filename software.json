@@ -3684,8 +3684,8 @@
         "forum_url": "https://community.nodebb.org",
         "donate_url": "https://nodebb.org",
         "matrix_url": "",
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://raw.githubusercontent.com/NodeBB/NodeBB/refs/heads/master/public/images/touch/96.png",
+        "logo_source_version": 1
     },
     {
         "name": "Elgg",
