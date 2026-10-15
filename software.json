@@ -273,8 +273,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/bookwyrm.png",
+        "logo_source_version": 1
     },
     {
         "name": "WordPress",
@@ -1604,8 +1604,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://avatars.githubusercontent.com/u/52387111?s=200&v=4",
+        "logo_source_version": 1
     },
     {
         "name": "Iplaza",
@@ -1863,8 +1863,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/akkoma.png",
+        "logo_source_version": 1
     },
     {
         "name": "Akkounfucked",
@@ -2200,8 +2200,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://fedibird.com/apple-touch-icon.png",
+        "logo_source_version": 1
     },
     {
         "name": "Feditools-relay",
@@ -3241,8 +3241,8 @@
         "forum_url": null,
         "donate_url": null,
         "matrix_url": null,
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://dashboardicons.com/pb/api/files/community_gallery/wux68fsphyxkck1/crop_headshot_min_bmoago8kpg.png",
+        "logo_source_version": 1
     },
     {
         "name": "Postmarks",
@@ -3299,8 +3299,8 @@
         "forum_url": "https://piefed.social/c/piefed_meta",
         "donate_url": "https://piefed.social/donate",
         "matrix_url": "https://matrix.to/#/#piefed-community:matrix.org",
-        "logo_source_url": null,
-        "logo_source_version": null
+        "logo_source_url": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/piefed.png",
+        "logo_source_version": 1
     },
     {
         "name": "Ghost",
