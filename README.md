@@ -1,3 +1,3 @@
 # communityDB
 
-We are no longer accepting contributions as we are migrating towards a self-hosted fediverse native wiki for app and software updates.
+This repo has served us well, but is no longer needed, you can add and edit directly on [FediDB.com](https://fedidb.com) using your fediverse account.
